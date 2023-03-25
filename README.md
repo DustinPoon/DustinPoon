@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DustinPoon
-- 👀 I’m interested in DATA ANYALSIS
-- 🌱 I’m currently learning Economics&Social Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DATA 
+- 🌱 I’m currently learning Economics & Social Data Analytics
+
+
 
 <!---
 DustinPoon/DustinPoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
