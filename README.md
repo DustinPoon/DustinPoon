@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DustinPoon
-- 👀 I’m interested in DATA 
-- 🌱 I graduated with Economics & Social Data Analytics 
+- 👀 I’m interested in finding and solving problems.
+- 🌱 I graduated with Economics & Social Data Analytics
+- 🚀 Fun fact: Former competitive swimmer 
 
 
 
