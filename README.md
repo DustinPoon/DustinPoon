@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DustinPoon
+- ✈️ Originally from Hong Kong
 - 🧐 I’m interested in finding and solving problems
 - 🌱 I graduated with Economics & Social Data Analytics
 - 🚀 Fun fact: Former competitive swimmer
